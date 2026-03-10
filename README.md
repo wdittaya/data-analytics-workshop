@@ -42,3 +42,6 @@ Getting insights from Thailand Tourism data
 * **Student Task:** Investigate and present any interesting or unexpected patterns you find in the data.
 * **Audience:** Executives (TAT Leadership)
 * **Format:** Workshop Slide
+
+
+The data is from the Ministry of Tourism and Sports, Thailand.
