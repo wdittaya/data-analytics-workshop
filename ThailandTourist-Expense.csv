@@ -1,0 +1,511 @@
+﻿Region,Nationality,Year,Total Expense
+ASEAN,Brunei,2017, 904.77 
+ASEAN,Cambodia,2017," 31,205.17 "
+ASEAN,Indonesia,2017," 18,489.23 "
+ASEAN,Laos,2017," 50,135.28 "
+ASEAN,Malaysia,2017," 95,410.08 "
+ASEAN,Myanmar,2017," 16,462.05 "
+ASEAN,Philippines,2017," 13,301.43 "
+ASEAN,Singapore,2017," 43,482.36 "
+ASEAN,Vietnam,2017," 29,654.77 "
+East Asia,China,2017," 520,722.39 "
+East Asia,Hong Kong,2017," 32,917.30 "
+East Asia,Japan,2017," 66,679.99 "
+East Asia,South Korea,2017," 75,506.73 "
+East Asia,Taiwan,2017," 24,936.34 "
+East Asia,Other East Asia,2017," 4,430.80 "
+South Asia,Bangladesh,2017," 6,563.07 "
+South Asia,India,2017," 54,739.05 "
+South Asia,Nepal,2017," 2,294.39 "
+South Asia,Pakistan,2017," 4,390.67 "
+South Asia,Sri  Lanka,2017," 2,779.52 "
+South Asia,Other South Asia,2017," 2,533.18 "
+Oceania,Australia,2017," 65,776.41 "
+Oceania,New  Zealand,2017," 7,541.65 "
+Oceania,Other Oceania,2017, 590.25 
+Middle East,Egypt,2017," 1,516.78 "
+Middle East,Kuwait,2017," 8,366.26 "
+Middle East,Saudi  Arabia,2017," 3,893.40 "
+Middle East,U.A.E.,2017," 15,090.23 "
+Middle East,Other Middle East,2017," 27,260.42 "
+North Europe,Denmark,2017," 13,695.14 "
+North Europe,Finland,2017," 12,114.18 "
+North Europe,Norway,2017," 11,212.93 "
+North Europe,Sweden,2017," 27,642.23 "
+North Europe,United  Kingdom,2017," 73,992.49 "
+West Europe,Austria,2017," 7,983.12 "
+West Europe,Belgium,2017," 7,679.13 "
+West Europe,France,2017," 45,510.24 "
+West Europe,Germany,2017," 53,225.05 "
+West Europe,Netherlands,2017," 15,770.22 "
+West Europe,Switzerland,2017," 17,702.60 "
+Central/East Europe,Russia,2017," 102,657.51 "
+Middle East,Israel,2017," 16,612.55 "
+South/Medit Europe,Italy,2017," 15,849.25 "
+South/Medit Europe,Spain,2017," 11,547.32 "
+Europe,East  Europe,2017," 29,866.87 "
+Europe,Other Europe,2017," 17,154.71 "
+America,Canada,2017," 18,350.43 "
+America,USA,2017," 74,307.22 "
+America,Argentina,2017," 4,624.48 "
+America,Brazil,2017," 5,609.38 "
+America,Other America,2017," 6,212.60 "
+Africa,South Africa,2017," 6,820.22 "
+Africa,Other Afirca,2017," 7,391.15 "
+ASEAN,Brunei,2018, 845.23 
+ASEAN,Cambodia,2018," 36,712.66 "
+ASEAN,Indonesia,2018," 17,368.72 "
+ASEAN,Laos,2018," 50,339.81 "
+ASEAN,Malaysia,2018," 104,525.81 "
+ASEAN,Myanmar,2018," 15,234.09 "
+ASEAN,Philippines,2018," 16,583.04 "
+ASEAN,Singapore,2018," 42,146.13 "
+ASEAN,Vietnam,2018," 35,061.42 "
+East Asia,China,2018," 522,264.78 "
+East Asia,Hong Kong,2018," 40,265.44 "
+East Asia,Japan,2018," 80,420.36 "
+East Asia,South Korea,2018," 71,158.50 "
+East Asia,Taiwan,2018," 30,953.75 "
+East Asia,Other East Asia,2018," 5,092.13 "
+South Asia,Bangladesh,2018," 6,486.27 "
+South Asia,India,2018," 66,723.28 "
+South Asia,Nepal,2018," 3,065.27 "
+South Asia,Pakistan,2018," 4,798.79 "
+South Asia,Sri  Lanka,2018," 2,779.91 "
+South Asia,Other South Asia,2018," 3,204.54 "
+Oceania,Australia,2018," 60,256.29 "
+Oceania,New  Zealand,2018," 6,735.95 "
+Oceania,Other Oceania,2018, 520.40 
+Middle East,Egypt,2018," 1,448.92 "
+Middle East,Kuwait,2018," 7,375.19 "
+Middle East,Saudi  Arabia,2018," 3,261.73 "
+Middle East,U.A.E.,2018," 11,400.73 "
+Middle East,Other Middle East,2018," 21,526.97 "
+North Europe,Denmark,2018," 15,221.72 "
+North Europe,Finland,2018," 10,969.54 "
+North Europe,Norway,2018," 11,641.46 "
+North Europe,Sweden,2018," 27,002.46 "
+North Europe,United  Kingdom,2018," 72,458.57 "
+West Europe,Austria,2018," 8,694.47 "
+West Europe,Belgium,2018," 7,715.63 "
+West Europe,France,2018," 44,595.81 "
+West Europe,Germany,2018," 54,449.95 "
+West Europe,Netherlands,2018," 16,110.33 "
+West Europe,Switzerland,2018," 17,198.72 "
+Central/East Europe,Russia,2018," 105,028.29 "
+Middle East,Israel,2018," 16,781.90 "
+South/Medit Europe,Italy,2018," 16,487.93 "
+South/Medit Europe,Spain,2018," 10,999.31 "
+Europe,East Europe,2018," 30,935.49 "
+Europe,Other Europe,2018," 15,576.55 "
+America,Canada,2018," 19,291.67 "
+America,USA,2018," 79,070.59 "
+America,Argentina,2018," 2,910.84 "
+America,Brazil,2018," 4,104.53 "
+America,Other America,2018," 5,868.58 "
+Africa,South Africa,2018," 6,512.09 "
+Africa,Other Afirca,2018," 7,954.36 "
+ASEAN,Brunei,2019, 945.13 
+ASEAN,Cambodia,2019," 39,277.88 "
+ASEAN,Indonesia,2019," 18,333.62 "
+ASEAN,Laos,2019," 58,035.54 "
+ASEAN,Malaysia,2019," 107,457.97 "
+ASEAN,Myanmar,2019," 15,106.83 "
+ASEAN,Philippines,2019," 19,820.08 "
+ASEAN,Singapore,2019," 43,678.41 "
+ASEAN,Vietnam,2019," 39,715.18 "
+East Asia,China,2019," 531,576.65 "
+East Asia,Hong Kong,2019," 42,973.72 "
+East Asia,Japan,2019," 93,758.84 "
+East Asia,South Korea,2019," 75,435.78 "
+East Asia,Taiwan,2019," 33,535.47 "
+East Asia,Other East Asia,2019," 5,572.39 "
+South Asia,Bangladesh,2019," 6,730.08 "
+South Asia,India,2019," 80,039.88 "
+South Asia,Nepal,2019," 2,969.18 "
+South Asia,Pakistan,2019," 4,418.12 "
+South Asia,Sri  Lanka,2019," 2,814.05 "
+South Asia,Other South Asia,2019," 3,196.85 "
+Oceania,Australia,2019," 55,402.66 "
+Oceania,New Zealand,2019," 5,976.15 "
+Oceania,Other Oceania,2019, 519.85 
+Middle East,Egypt,2019," 1,482.11 "
+Middle East,Israel,2019," 16,090.66 "
+Middle East,Kuwait,2019," 7,675.40 "
+Middle East,Saudi  Arabia,2019," 3,220.15 "
+Middle East,U.A.E.,2019," 11,077.15 "
+Middle East,Other Middle East,2019," 17,835.72 "
+North Europe,Denmark,2019," 13,784.14 "
+North Europe,Finland,2019," 9,858.37 "
+North Europe,Norway,2019," 11,970.93 "
+North Europe,Sweden,2019," 23,771.56 "
+North Europe,United Kingdom,2019," 72,318.73 "
+West Europe,Austria,2019," 7,873.28 "
+West Europe,Belgium,2019," 7,312.50 "
+West Europe,France,2019," 42,827.24 "
+West Europe,Germany,2019," 52,169.50 "
+West Europe,Netherlands,2019," 16,291.98 "
+West Europe,Switzerland,2019," 15,877.93 "
+Central/East Europe,Russia,2019," 102,895.03 "
+South/Medit Europe,Italy,2019," 14,776.71 "
+South/Medit Europe,Spain,2019," 11,181.50 "
+Europe,East Europe,2019," 32,008.29 "
+Europe,Other Europe,2019," 13,826.12 "
+America,Canada,2019," 17,636.96 "
+America,USA,2019," 76,819.24 "
+America,Argentina,2019," 1,799.19 "
+America,Brazil,2019," 3,679.45 "
+America,Other America,2019," 5,153.15 "
+Africa,South Africa,2019," 5,730.55 "
+Africa,Other Afirca,2019," 7,574.10 "
+ASEAN,Brunei,2020, 167.04 
+ASEAN,Cambodia,2020," 10,023.97 "
+ASEAN,Indonesia,2020," 2,644.01 "
+ASEAN,Laos,2020," 13,435.61 "
+ASEAN,Malaysia,2020," 17,492.99 "
+ASEAN,Myanmar,2020," 2,630.88 "
+ASEAN,Philippines,2020," 5,870.39 "
+ASEAN,Singapore,2020," 4,442.34 "
+ASEAN,Vietnam,2020," 6,468.89 "
+East Asia,China,2020," 69,719.61 "
+East Asia,Hong Kong,2020," 5,578.62 "
+East Asia,Japan,2020," 15,044.15 "
+East Asia,South Korea,2020," 13,131.73 "
+East Asia,Taiwan,2020," 5,411.47 "
+East Asia,Other East Asia,2020," 1,323.67 "
+South Asia,Bangladesh,2020," 1,698.14 "
+South Asia,India,2020," 9,744.33 "
+South Asia,Nepal,2020, 566.01 
+South Asia,Pakistan,2020, 805.31 
+South Asia,Sri Lanka,2020, 458.07 
+South Asia,Other South Asia,2020, 704.79 
+Oceania,Australia,2020," 6,347.58 "
+Oceania,New Zealand,2020," 1,122.13 "
+Oceania,Other Oceania,2020, 46.56 
+Middle East,Egypt,2020, 290.94 
+Middle East,Kuwait,2020," 1,909.63 "
+Middle East,Saudi Arabia,2020, 637.85 
+Middle East,U.A.E.,2020," 1,053.82 "
+Middle East,Other Middle East,2020," 2,151.09 "
+North Europe,Denmark,2020," 5,631.20 "
+North Europe,Finland,2020," 5,021.13 "
+North Europe,Norway,2020," 3,959.64 "
+North Europe,Sweden,2020," 7,274.18 "
+North Europe,United Kingdom,2020," 15,478.36 "
+West Europe,Austria,2020," 2,410.53 "
+West Europe,Belgium,2020," 2,380.40 "
+West Europe,France,2020," 14,764.92 "
+West Europe,Germany,2020," 12,859.52 "
+West Europe,Netherlands,2020," 3,890.95 "
+West Europe,Switzerland,2020," 4,585.35 "
+Central/East Europe,Russia,2020," 34,612.77 "
+Middle East,Israel,2020," 1,973.47 "
+South/Medit Europe,Italy,2020," 3,817.66 "
+South/Medit Europe,Spain,2020," 1,668.06 "
+Europe,East Europe,2020," 10,863.41 "
+Europe,Other Europe,2020," 3,308.08 "
+America,Canada,2020," 3,265.49 "
+America,USA,2020," 11,973.44 "
+America,Argentina,2020, 645.85 
+America,Brazil,2020, 999.02 
+America,Other America,2020, 911.43 
+Africa,South Africa,2020, 900.69 
+Africa,Other Afirca,2020," 1,250.26 "
+ASEAN,Brunei,2021, 10.45 
+ASEAN,Cambodia,2021, 929.78 
+ASEAN,Indonesia,2021, 904.26 
+ASEAN,Laos,2021, 205.37 
+ASEAN,Malaysia,2021, 976.93 
+ASEAN,Myanmar,2021," 1,732.03 "
+ASEAN,Philippines,2021," 1,813.04 "
+ASEAN,Singapore,2021, 738.30 
+ASEAN,Vietnam,2021, 571.37 
+East Asia,China,2021," 9,162.82 "
+East Asia,Hong Kong,2021, 520.13 
+East Asia,Japan,2021," 8,880.51 "
+East Asia,South Korea,2021," 3,635.69 "
+East Asia,Taiwan,2021," 1,018.78 "
+East Asia,Other East Asia,2021, 214.72 
+South Asia,Bangladesh,2021, 558.38 
+South Asia,India,2021," 2,855.44 "
+South Asia,Nepal,2021, 213.06 
+South Asia,Pakistan,2021, 367.07 
+South Asia,Sri Lanka,2021, 142.81 
+South Asia,Other South Asia,2021, 423.75 
+Oceania,Australia,2021," 2,218.92 "
+Oceania,New Zealand,2021, 353.32 
+Oceania,Other Oceania,2021, 55.53 
+Middle East,Egypt,2021, 85.90 
+Middle East,Kuwait,2021, 591.94 
+Middle East,Saudi Arabia,2021, 70.14 
+Middle East,U.A.E.,2021, 370.16 
+Middle East,Other Middle East,2021," 1,654.01 "
+North Europe,Denmark,2021," 1,381.65 "
+North Europe,Finland,2021, 901.05 
+North Europe,Norway,2021," 1,046.06 "
+North Europe,Sweden,2021," 2,039.12 "
+North Europe,United Kingdom,2021," 8,602.55 "
+West Europe,Austria,2021, 934.15 
+West Europe,Belgium,2021, 979.78 
+West Europe,France,2021," 5,897.02 "
+West Europe,Germany,2021," 5,849.02 "
+West Europe,Netherlands,2021," 1,951.10 "
+West Europe,Switzerland,2021," 1,839.04 "
+Central/East Europe,Russia,2021," 5,369.33 "
+Middle East,Israel,2021," 1,493.09 "
+South/Medit Europe,Italy,2021," 1,407.87 "
+South/Medit Europe,Spain,2021, 613.39 
+Europe,East Europe,2021," 3,321.01 "
+Europe,Other Europe,2021," 1,438.06 "
+America,Canada,2021," 1,453.75 "
+America,USA,2021," 8,569.76 "
+America,Argentina,2021, 59.79 
+America,Brazil,2021, 302.96 
+America,Other America,2021, 362.00 
+Africa,South Africa,2021, 312.33 
+Africa,Other Afirca,2021, 687.86 
+ASEAN,Brunei,2022, 82.73 
+ASEAN,Cambodia,2022," 12,897.33 "
+ASEAN,Indonesia,2022," 7,463.64 "
+ASEAN,Laos,2022," 21,431.86 "
+ASEAN,Malaysia,2022," 29,856.41 "
+ASEAN,Myanmar,2022," 8,554.04 "
+ASEAN,Philippines,2022," 7,314.94 "
+ASEAN,Singapore,2022," 21,110.05 "
+ASEAN,Vietnam,2022," 16,193.11 "
+East Asia,China,2022," 30,068.35 "
+East Asia,Hong Kong,2022," 9,893.35 "
+East Asia,Japan,2022," 13,473.70 "
+East Asia,South Korea,2022," 17,454.91 "
+East Asia,Taiwan,2022," 3,546.54 "
+East Asia,Other East Asia,2022, 111.96 
+South Asia,Bangladesh,2022," 4,452.99 "
+South Asia,India,2022," 34,530.25 "
+South Asia,Nepal,2022, 597.37 
+South Asia,Pakistan,2022," 2,345.01 "
+South Asia,Sri Lanka,2022, 272.58 
+South Asia,Other South Asia,2022," 1,007.06 "
+Oceania,Australia,2022," 17,420.75 "
+Oceania,New Zealand,2022," 2,136.02 "
+Oceania,Other Oceania,2022, 163.19 
+Middle East,Egypt,2022, 672.44 
+Middle East,Kuwait,2022," 3,434.92 "
+Middle East,Saudi Arabia,2022," 7,011.51 "
+Middle East,U.A.E.,2022," 3,416.98 "
+Middle East,Other Middle East,2022," 7,508.64 "
+North Europe,Denmark,2022," 3,474.13 "
+North Europe,Finland,2022," 2,122.05 "
+North Europe,Norway,2022," 3,414.24 "
+North Europe,Sweden,2022," 5,046.27 "
+North Europe,United Kingdom,2022," 26,392.53 "
+West Europe,Austria,2022," 3,102.52 "
+West Europe,Belgium,2022," 3,443.43 "
+West Europe,France,2022," 13,078.27 "
+West Europe,Germany,2022," 18,725.27 "
+West Europe,Netherlands,2022," 11,240.82 "
+West Europe,Switzerland,2022," 5,308.15 "
+Central/East Europe,Russia,2022," 25,923.13 "
+Middle East,Israel,2022," 10,869.73 "
+South/Medit Europe,Italy,2022," 4,240.76 "
+South/Medit Europe,Spain,2022," 5,606.90 "
+Europe,East Europe,2022," 14,837.97 "
+Europe,Other Europe,2022," 6,156.16 "
+America,Canada,2022," 4,960.75 "
+America,USA,2022," 21,518.99 "
+America,Argentina,2022, 672.65 
+America,Brazil,2022," 2,045.97 "
+America,Other America,2022," 1,417.52 "
+Africa,South Africa,2022," 1,396.42 "
+Africa,Other Afirca,2022," 1,757.97 "
+ASEAN,Brunei,2023, 583.45 
+ASEAN,Cambodia,2023," 15,548.94 "
+ASEAN,Indonesia,2023," 26,345.74 "
+ASEAN,Laos,2023," 7,353.58 "
+ASEAN,Malaysia,2023," 93,584.79 "
+ASEAN,Myanmar,2023," 15,802.78 "
+ASEAN,Philippines,2023," 16,346.11 "
+ASEAN,Singapore,2023," 49,758.60 "
+ASEAN,Vietnam,2023," 35,465.18 "
+East Asia,China,2023," 193,996.09 "
+East Asia,Hong Kong,2023," 38,678.26 "
+East Asia,Japan,2023," 35,243.56 "
+East Asia,South Korea,2023," 67,201.12 "
+East Asia,Macau,2023," 1,534.40 "
+East Asia,Mongolia,2023," 1,387.53 "
+East Asia,Taiwan,2023," 32,991.84 "
+South Asia,Bangladesh,2023," 7,439.43 "
+South Asia,Bhutan,2023, 786.18 
+South Asia,India,2023," 62,220.28 "
+South Asia,Iran,2023," 3,289.62 "
+South Asia,Maldives,2023," 1,309.52 "
+South Asia,Nepal,2023," 1,116.55 "
+South Asia,Pakistan,2023," 3,266.17 "
+South Asia,Sri Lanka,2023," 1,359.20 "
+Other Asia,Other Asia,2023, 45.22 
+Oceania,Australia,2023," 39,562.20 "
+Oceania,New Zealand,2023," 5,759.77 "
+Oceania,Other Oceania,2023, 212.74 
+Middle East,Bahrain,2023," 2,030.85 "
+Middle East,Egypt,2023, 991.57 
+Middle East,Iraq,2023, 294.47 
+Middle East,Jordan,2023, 699.58 
+Middle East,Kuwait,2023," 6,416.30 "
+Middle East,Lebanon,2023, 241.57 
+Middle East,Oman,2023," 5,557.48 "
+Middle East,Qatar,2023," 3,403.11 "
+Middle East,Saudi Arabia,2023," 12,493.16 "
+Middle East,U.A.E.,2023," 10,036.37 "
+Middle East,Yemen,2023, 544.81 
+Middle East,Other Middle East,2023, 638.51 
+North Europe,Denmark,2023," 6,736.37 "
+North Europe,Finland,2023," 6,400.48 "
+North Europe,Iceland,2023, 332.29 
+North Europe,Ireland,2023," 5,581.81 "
+North Europe,Norway,2023," 7,180.74 "
+North Europe,Sweden,2023," 12,339.09 "
+North Europe,United Kingdom,2023," 57,204.91 "
+West Europe,Austria,2023," 5,548.63 "
+West Europe,Belgium,2023," 6,974.33 "
+West Europe,France,2023," 32,528.65 "
+West Europe,Germany,2023," 42,621.68 "
+West Europe,Luxembourg,2023, 292.03 
+West Europe,Netherlands,2023," 15,494.11 "
+West Europe,Switzerland,2023," 11,135.64 "
+Central/East Europe,Belarus,2023, 701.81 
+Central/East Europe,Bulgaria,2023, 575.08 
+Central/East Europe,Czech Republic,2023," 3,206.11 "
+Central/East Europe,Estonia,2023, 960.66 
+Central/East Europe,Hungary,2023," 1,737.18 "
+Central/East Europe,Kazakhstan,2023," 7,672.68 "
+Central/East Europe,Kyrgyzstan,2023, 211.20 
+Central/East Europe,Latvia,2023, 796.54 
+Central/East Europe,Lithuania,2023," 1,368.86 "
+Central/East Europe,Poland,2023," 7,161.26 "
+Central/East Europe,Romania,2023," 1,922.89 "
+Central/East Europe,Russia,2023," 85,324.09 "
+Central/East Europe,Slovakia,2023," 1,141.35 "
+Central/East Europe,Ukraine,2023," 2,686.09 "
+Central/East Europe,Uzbekistan,2023," 1,274.68 "
+South/Medit Europe,Croatia,2023, 428.13 
+South/Medit Europe,Cyprus,2023, 137.95 
+South/Medit Europe,Greece,2023, 876.67 
+South/Medit Europe,Israel,2023," 18,760.21 "
+South/Medit Europe,Italy,2023," 10,235.69 "
+South/Medit Europe,Portugal,2023," 1,945.66 "
+South/Medit Europe,Serbia,2023, 436.72 
+South/Medit Europe,Slovenia,2023, 583.31 
+South/Medit Europe,Spain,2023," 7,346.29 "
+South/Medit Europe,Turkey,2023," 2,434.53 "
+Europe,Other Europe,2023," 1,005.18 "
+America,Canada,2023," 14,612.37 "
+America,Mexico,2023," 1,171.87 "
+America,USA,2023," 48,603.66 "
+America,Argentina,2023," 1,305.14 "
+America,Brazil,2023," 2,686.27 "
+America,Chile,2023, 643.18 
+America,Colombia,2023, 329.77 
+America,Peru,2023, 298.32 
+America,Uruguay,2023, 144.50 
+America,Other America,2023, 532.56 
+Africa,Morocco,2023, 472.51 
+Africa,South Africa,2023," 2,835.63 "
+Africa,Ethiopia,2023, 642.94 
+Africa,Kenya,2023, 199.21 
+Africa,Mauritius,2023, 439.51 
+Africa,Other Afirca,2023," 1,343.79 "
+ASEAN,Brunei,2024, 728.78 
+ASEAN,Cambodia,2024," 20,923.04 "
+ASEAN,Indonesia,2024," 29,218.46 "
+ASEAN,Laos,2024," 30,035.16 "
+ASEAN,Malaysia,2024," 104,938.09 "
+ASEAN,Myanmar,2024," 24,950.30 "
+ASEAN,Philippines,2024," 19,856.39 "
+ASEAN,Singapore,2024," 43,100.38 "
+ASEAN,Vietnam,2024," 33,890.45 "
+East Asia,China,2024," 365,019.40 "
+East Asia,Hong Kong,2024," 45,404.29 "
+East Asia,Japan,2024," 41,074.23 "
+East Asia,South Korea,2024," 66,189.93 "
+East Asia,Macau,2024," 1,835.45 "
+East Asia,Mongolia,2024," 1,638.25 "
+East Asia,Taiwan,2024," 40,281.00 "
+South Asia,Bangladesh,2024," 6,796.52 "
+South Asia,Bhutan,2024, 684.84 
+South Asia,India,2024," 76,554.35 "
+South Asia,Iran,2024," 3,183.56 "
+South Asia,Maldives,2024," 1,176.23 "
+South Asia,Nepal,2024," 1,587.87 "
+South Asia,Pakistan,2024," 2,980.36 "
+South Asia,Sri Lanka,2024," 2,290.12 "
+Other Asia,Other in Asia,2024, 58.02 
+Oceania,Australia,2024," 41,266.35 "
+Oceania,New Zealand,2024," 7,052.30 "
+Oceania,Other in Oceania,2024, 205.83 
+Middle East,Denmark,2024," 9,920.69 "
+Middle East,Finland,2024," 6,202.41 "
+Middle East,Iceland,2024, 391.87 
+Middle East,Ireland,2024," 5,585.06 "
+Middle East,Norway,2024," 7,759.25 "
+Middle East,Sweden,2024," 14,652.16 "
+Middle East,United Kingdom,2024," 61,226.24 "
+Middle East,Austria,2024," 6,841.94 "
+Middle East,Belgiun,2024," 6,795.38 "
+Middle East,France,2024," 41,604.05 "
+Middle East,Germany,2024," 52,150.64 "
+Middle East,Luxembourg,2024, 361.55 
+North Europe,Netherlands,2024," 16,336.24 "
+North Europe,Switzerland,2024," 11,668.08 "
+North Europe,Belarus,2024," 1,093.58 "
+North Europe,Bulgaria,2024, 773.61 
+North Europe,Czech Republic,2024," 3,613.46 "
+North Europe,Estonia,2024," 1,053.09 "
+North Europe,Hungary,2024," 1,969.70 "
+West Europe,Kazakhstan,2024," 7,700.12 "
+West Europe,Kyrgyzstan,2024, 383.81 
+West Europe,Latvia,2024, 658.16 
+West Europe,Lithuania,2024," 1,842.52 "
+West Europe,Poland,2024," 12,441.69 "
+West Europe,Romania,2024," 2,744.85 "
+West Europe,Russian Federation,2024," 103,804.20 "
+Central/East Europe,Slovakia,2024," 1,438.07 "
+Central/East Europe,Ukraine,2024," 2,766.13 "
+Central/East Europe,Uzbekistan,2024," 1,797.70 "
+Central/East Europe,Croatia,2024, 518.20 
+Central/East Europe,Cyprus,2024, 177.05 
+Central/East Europe,Greece,2024," 1,155.54 "
+Central/East Europe,Israel,2024," 27,989.47 "
+Central/East Europe,Italy,2024," 13,816.55 "
+Central/East Europe,Portugal,2024," 3,046.28 "
+Central/East Europe,Serbia,2024, 559.42 
+Central/East Europe,Slovenia,2024, 718.48 
+Central/East Europe,Spain,2024," 10,276.64 "
+Central/East Europe,Turkey,2024," 4,652.98 "
+Central/East Europe,Other in Europe,2024," 1,395.60 "
+Central/East Europe,Canada,2024," 13,723.73 "
+South/Medit Europe,Mexico,2024," 1,724.48 "
+South/Medit Europe,United States of America,2024," 58,871.73 "
+South/Medit Europe,Argentina,2024," 1,330.37 "
+South/Medit Europe,Brazil,2024," 3,631.10 "
+South/Medit Europe,Chile,2024, 872.69 
+South/Medit Europe,Colombia,2024, 722.10 
+South/Medit Europe,Peru,2024, 365.91 
+South/Medit Europe,Uruguay,2024, 169.62 
+South/Medit Europe,Other in America,2024," 1,287.22 "
+South/Medit Europe,Bahrain,2024," 2,857.63 "
+Europe,Egypt,2024, 897.99 
+America,Iraq,2024, 368.76 
+America,Jordan,2024," 1,203.67 "
+America,Kuwait,2024," 8,714.90 "
+America,Lebanon,2024, 393.08 
+America,Oman,2024," 9,675.52 "
+America,Qatar,2024," 4,279.94 "
+America,Saudi Arabia,2024," 17,812.53 "
+America,U.A.E.,2024," 11,944.34 "
+America,Yemen,2024, 669.89 
+America,Other in Middle East,2024, 660.29 
+Africa,Morocco,2024," 1,314.30 "
+Africa,South  Africa,2024," 2,840.57 "
+Africa,Ethiopia,2024, 865.98 
+Africa,Kenya,2024, 239.98 
+Africa,Mauritius,2024, 818.62 
+Africa,Other in Africa,2024," 1,543.52 "
